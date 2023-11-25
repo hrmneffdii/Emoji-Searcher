@@ -1,0 +1,24 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+
+    text-align: center;
+
+    background-color: var(--main-background-color);
+    padding: 0 16px;
+    height: 55px;
+
+}
+
+.navTitle{
+    color: var(--secondary-font-color);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navIcon{
+    height: 24px;
+    width: 20px;
+}
