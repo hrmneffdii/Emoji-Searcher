@@ -1,4 +1,4 @@
-### Project Emoji Searcher
+### Emoji Searcher
 
 #### Deskripsi
 
